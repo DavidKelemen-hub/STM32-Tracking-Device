@@ -1,0 +1,3 @@
+../Core/Src/Inputs.c:20:10:handle_debounce_Button_Engine	16	static
+../Core/Src/Inputs.c:49:6:Handle_Inputs_Init	4	static
+../Core/Src/Inputs.c:55:6:Handle_Inputs_TaskCyclicEvent	16	static

@@ -1,0 +1,38 @@
+/*
+ * GSM_Transmission.h
+ *
+ *  Created on: May 12, 2023
+ *      Author: K. David
+ */
+
+#ifndef SRC_GSM_TRANSMISSION_H_
+#define SRC_GSM_TRANSMISSION_H_
+
+
+
+#endif /* SRC_GSM_TRANSMISSION_H_ */
+
+
+#define AT_INIT_COMMANDS_NUM 15u
+#define AT_INIT_COMMANDS_MAX_LENGTH 70u
+#define AT_CYCLIC_COMMANDS_READ_NUM 4u
+#define AT_CYCLIC_COMMANDS_WRITE_NUM 4u
+#define AT_CYCLIC_COMMANDS_MAX_LENGTH 110u
+#define UART_TIMEOUT 5000u
+#define GSM_CONNECTED_INDEX_PAST 3u
+#define GSM_CONNECTED_INDEX_MINUS_ONE 1U
+#define GSM_HTTPREAD_INDEX 6u
+#define GSM_HTTPWRITE_INDEX 2u
+#define UART_RECEIVE_MAX_LENGTH 200u
+#define ONE 1u
+#define FIND_PATTERN_ERROR_CODE 10u
+#define CTRLZ_CHARACTER_INDEX 3u
+#define CYCLIC_TIME_READ 30u
+#define CYCLIC_TIME_WRITE 20u
+
+
+void GSM_Start_Init();
+void GSM_Start_TaskCyclicEvent();
+
+
+

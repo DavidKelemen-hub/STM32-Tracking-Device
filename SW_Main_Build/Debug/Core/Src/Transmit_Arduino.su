@@ -1,0 +1,2 @@
+../Core/Src/Transmit_Arduino.c:30:6:Transmit_Arduino_Init	4	static
+../Core/Src/Transmit_Arduino.c:35:6:Transmit_Arduino_TaskCyclicEvent	56	static

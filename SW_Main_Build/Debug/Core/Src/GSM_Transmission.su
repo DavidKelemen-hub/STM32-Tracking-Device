@@ -1,0 +1,12 @@
+../Core/Src/GSM_Transmission.c:95:9:Find_Command_Character	40	static
+../Core/Src/GSM_Transmission.c:118:6:Calculate_Command_Buffer	24	static
+../Core/Src/GSM_Transmission.c:134:7:extractValueFromString	64	dynamic
+../Core/Src/GSM_Transmission.c:152:7:convertToDecimalDegrees	32	static
+../Core/Src/GSM_Transmission.c:161:6:convertToNormalCoordinates	24	static
+../Core/Src/GSM_Transmission.c:166:5:checkSubstring	56	static
+../Core/Src/GSM_Transmission.c:191:6:GPS_Read_Data	16	static
+../Core/Src/GSM_Transmission.c:223:6:Send_Init_AT_Commands	24	static
+../Core/Src/GSM_Transmission.c:255:6:Send_Cyclic_Read_AT_Commands	16	static
+../Core/Src/GSM_Transmission.c:279:6:Send_Cyclic_Write_AT_Commands	56	static
+../Core/Src/GSM_Transmission.c:335:6:GSM_Start_Init	8	static
+../Core/Src/GSM_Transmission.c:350:6:GSM_Start_TaskCyclicEvent	24	static

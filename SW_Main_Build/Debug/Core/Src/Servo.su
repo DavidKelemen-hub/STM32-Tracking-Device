@@ -1,0 +1,3 @@
+../Core/Src/Servo.c:21:16:handle_debounce_Button_Door	16	static
+../Core/Src/Servo.c:50:6:Servo_Start_Init	8	static
+../Core/Src/Servo.c:67:6:Servo_Start_TaskCyclicEvent	16	static

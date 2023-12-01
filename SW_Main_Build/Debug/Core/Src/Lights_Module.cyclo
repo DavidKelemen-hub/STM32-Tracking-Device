@@ -1,0 +1,7 @@
+Lights_Module.c:25:6:Lights_TurnOffAllLights	1
+Lights_Module.c:37:6:Lights_TurnOnAllLights	1
+Lights_Module.c:49:6:Lights_HandlePositionLights	1
+Lights_Module.c:59:6:Lights_HandleLowBeam	1
+Lights_Module.c:73:6:Lights_HandleHighBeam	1
+Lights_Module.c:81:6:Lights_Module_Init	1
+Lights_Module.c:87:6:Lights_Module_Start_TaskCyclicEvent	10

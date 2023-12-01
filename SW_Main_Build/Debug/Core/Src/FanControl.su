@@ -1,0 +1,3 @@
+../Core/Src/FanControl.c:24:9:handle_debounce_Button_Fan	16	static
+../Core/Src/FanControl.c:54:6:FanControl_Init	8	static
+../Core/Src/FanControl.c:64:6:FanControl_TaskCyclicEvent	24	static
